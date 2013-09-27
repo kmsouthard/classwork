@@ -26,7 +26,7 @@ Proceed to push that to your remote git repository on github.
     git push
 
 Write your sentence here:
-
+Hello world, this is Mr. Kade.
 
 ## 1. Play through the first three levels of [Manufactoria](http://pleasingfungus.com/Manufactoria/)
 
@@ -66,9 +66,9 @@ number stored in this slot":
     05: output [11]
     06:
     07:
-    10: 12
-    11: 15
-    12:
+    10: 1
+    11: 12
+    12: 0
     13:
     14:
     15:
@@ -77,10 +77,10 @@ number stored in this slot":
 
 Feel free to use the above as space to actually work out the
 answer. What does this output?
-
+11
 Try the same program with some other inputs in slots 10 and 11.  What
 does this program compute?
-
+11
 ## 3. Low-level programming II
 
 Another one of the same, but instead of writing out exactly what
